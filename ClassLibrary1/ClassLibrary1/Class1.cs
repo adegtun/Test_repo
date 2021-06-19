@@ -7,6 +7,9 @@ namespace ClassLibrary1
         static void main()
         {
             string hello = "Hello";
+            //Another comment here
+
+            int sum = 4 + 2;
         }
     }
 }
